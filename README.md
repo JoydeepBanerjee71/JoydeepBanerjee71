@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI-powered climate & travel assistant and spam email detection.<br>👯 I’m looking to collaborate on Machine learning, AI, web development, and open-source projects.<br>🌱 I’m currently learning machine learning, network protocols, and software testing.<br>💬 Ask me about ML, AI, research,.<br>💡 Highlights Authored and co-authored 4 IEEE papers, including work on GANs for pest detection and risk forecasting for heart disease. Passionate about ML, AI, and climate-tech innovation.
+🔭 I’m currently working on AI-powered climate & travel assistant and spam email detection.<br>👯 I’m looking to collaborate on Machine learning, AI, web development, and open-source projects.<br>🌱 I’m currently learning machine learning, network protocols, and software testing.<br>💬 Ask me about ML, AI, research,.<br>💡 Highlights Authored and co-authored 2 IEEE papers, including work on GANs for pest detection and risk forecasting for heart disease. Passionate about ML, AI, and climate-tech innovation.
 
 
 ## 🌐 Socials:
